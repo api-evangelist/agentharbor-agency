@@ -1,4 +1,4 @@
-# agentharbor-agency
+# Agent Harbor
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentharbor-agency is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentharbor.agency/
+Agent Harbor runs pay-per-call services that AI agents call and pay for themselves: company data, site audits, public records and developer tools, settled in USDC over x402 on Base. No account or API key. Managed agent fleets for businesses, too.
+
+**Areas:** AI · Pay-per-call · Blockchain · Data · Automation
+
+## Agent Harbor on APIs.io
+
+Everything profiled for Agent Harbor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentharbor-agency/](https://apis.io/providers/agentharbor-agency/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Agent Harbor Agents.json API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-agents-json-api/) — The Agents.json API from Agent Harbor — 1 operation(s) for agents.json.
+- [Agent Harbor Ai Crawlers API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-ai-crawlers-api/) — The Ai Crawlers API from Agent Harbor — 1 operation(s) for ai crawlers.
+- [Agent Harbor Audit API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-audit-api/) — The Audit API from Agent Harbor — 1 operation(s) for audit.
+- [Agent Harbor Catalog API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-catalog-api/) — The Catalog API from Agent Harbor — 1 operation(s) for catalog.
+- [Agent Harbor Company API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-company-api/) — The Company API from Agent Harbor — 1 operation(s) for company.
+- [Agent Harbor Domain Verify API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-domain-verify-api/) — The Domain Verify API from Agent Harbor — 1 operation(s) for domain verify.
+- [Agent Harbor Enrich API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-enrich-api/) — The Enrich API from Agent Harbor — 1 operation(s) for enrich.
+- [Agent Harbor Health API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-health-api/) — The Health API from Agent Harbor — 1 operation(s) for health.
+- [Agent Harbor Llms.txt API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-llms-txt-api/) — The Llms.txt API from Agent Harbor — 1 operation(s) for llms.txt.
+- [Agent Harbor Package Check API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-package-check-api/) — The Package Check API from Agent Harbor — 1 operation(s) for package check.
+- [Agent Harbor Pdf Extract API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-pdf-extract-api/) — The Pdf Extract API from Agent Harbor — 1 operation(s) for pdf extract.
+- [Agent Harbor Recalls API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-recalls-api/) — The Recalls API from Agent Harbor — 1 operation(s) for recalls.
+- [Agent Harbor Robots.txt API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-robots-txt-api/) — The Robots.txt API from Agent Harbor — 1 operation(s) for robots.txt.
+- [Agent Harbor Scrape API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-scrape-api/) — The Scrape API from Agent Harbor — 1 operation(s) for scrape.
+- [Agent Harbor Sec Company API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-sec-company-api/) — The Sec Company API from Agent Harbor — 1 operation(s) for sec company.
+- [Agent Harbor .well Known API](https://apis.io/apis/agentharbor-agency/agentharbor-agency-well-known-api/) — The .well Known API from Agent Harbor — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentharbor Agency Agentic Access](https://apis.io/agentic-access/agentharbor-agency/agentharbor-agency-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Agentharbor Agency Openapi Overlay](https://apis.io/overlays/agentharbor-agency/agentharbor-agency-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Agent Harbor API Rules](https://apis.io/rules/agentharbor-agency/agentharbor-agency-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentharbor Agency Authentication](https://apis.io/security/agentharbor-agency/agentharbor-agency-authentication/)
+- [Agentharbor Agency Domain Security](https://apis.io/security/agentharbor-agency/agentharbor-agency-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Agentharbor Agency Scopes](https://apis.io/scopes/agentharbor-agency/agentharbor-agency-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentharbor Agency Plans Pricing](https://apis.io/plans/agentharbor-agency/agentharbor-agency-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Agentharbor Agency Rate Limits](https://apis.io/rate-limits/agentharbor-agency/agentharbor-agency-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentharbor.agency/)
+- [Documentation](https://agentharbor.agency/docs/agents)
+- [Getting started](https://agentharbor.agency/docs/agents)
+- [API reference](https://x402.agentharbor.agency/openapi.json)
+- [Pricing](https://agentharbor.agency/pricing)
+- [Support](https://agentharbor.agency/contact)
+- [Trust centre](https://agentharbor.agency/trust)
+- [Terms of service](https://agentharbor.agency/terms)
+- [Privacy policy](https://agentharbor.agency/privacy)
+- [GitHub](https://github.com/agentharbor)
+
+## API Evangelist rating
+
+**Kin Score 50.7** — developing · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 39.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 67.9 |
+
+**Agent readiness 41.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentharbor-agency/](https://apis.io/providers/agentharbor-agency/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agent Harbor: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentharbor-agency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
