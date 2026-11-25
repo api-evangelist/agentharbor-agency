@@ -66,7 +66,7 @@
 
 Agent Harbor runs pay-per-call services that AI agents call and pay for themselves: company data, site audits, public records and developer tools, settled in USDC over x402 on Base. No account or API key. Managed agent fleets for businesses, too.
 
-**Areas:** AI · Pay-per-call · Blockchain · Data · Automation
+**Areas:** Artificial Intelligence · Pay-per-call · Blockchain · Data · Automation
 
 ## Agent Harbor on APIs.io
 
@@ -99,13 +99,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentharbor Agency Agentic Access](https://apis.io/agentic-access/agentharbor-agency/agentharbor-agency-agentic-access/)
+- [Agent Harbor Agentic Access](https://apis.io/agentic-access/agentharbor-agency/agentharbor-agency-agentic-access/)
 
 #### Overlays (1)
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Agentharbor Agency Openapi Overlay](https://apis.io/overlays/agentharbor-agency/agentharbor-agency-openapi-overlay/)
+- [Agent Harbor Openapi Overlay](https://apis.io/overlays/agentharbor-agency/agentharbor-agency-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -117,26 +117,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentharbor Agency Authentication](https://apis.io/security/agentharbor-agency/agentharbor-agency-authentication/)
-- [Agentharbor Agency Domain Security](https://apis.io/security/agentharbor-agency/agentharbor-agency-domain-security/)
+- [Agent Harbor Authentication](https://apis.io/security/agentharbor-agency/agentharbor-agency-authentication/)
+- [Agent Harbor Domain Security](https://apis.io/security/agentharbor-agency/agentharbor-agency-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentharbor Agency Scopes](https://apis.io/scopes/agentharbor-agency/agentharbor-agency-scopes/)
+- [Agent Harbor Scopes](https://apis.io/scopes/agentharbor-agency/agentharbor-agency-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentharbor Agency Plans Pricing](https://apis.io/plans/agentharbor-agency/agentharbor-agency-plans-pricing/)
+- [Agent Harbor Plans Pricing](https://apis.io/plans/agentharbor-agency/agentharbor-agency-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentharbor Agency Rate Limits](https://apis.io/rate-limits/agentharbor-agency/agentharbor-agency-rate-limits/)
+- [Agent Harbor Rate Limits](https://apis.io/rate-limits/agentharbor-agency/agentharbor-agency-rate-limits/)
 
 ## Where to find this API
 
@@ -155,25 +155,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 50.7** — developing · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 44.6** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 39.0 |
-| Contract governance | 65.5 |
-| Operational transparency | 5.3 |
+| Contract governance | 18.2 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 49.3 |
-| Access clarity | 67.9 |
+| Access clarity | 70.2 |
 
-**Agent readiness 41.1** — agent-ready (gated down from agent-native)
+**Agent readiness 35.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -181,7 +181,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
@@ -192,8 +192,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 30.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentharbor-agency/](https://apis.io/providers/agentharbor-agency/).
 
